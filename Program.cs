@@ -67,7 +67,7 @@ namespace mrdiff
             string in_path1 = "";
             string in_path2 = "";
             string out_path = @"output.log";
-            string missing1 = "";   //Missing vechicles for one input for result file
+            string missing1 = "";   //Missing vechicles for one input for result file.
             string missing2 = "";   //Missing vechicled for second input for result file
             string difference = ""; //Vichle that is present in both files but with different attributes for result file
             int nbr_vehicles1 = 0; //Number of vehicles in file 1
